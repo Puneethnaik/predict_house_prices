@@ -1,0 +1,19 @@
+{
+  "name": "predict_house_prices",
+  "version": "1.0.0",
+  "description": "backend to serve machine learning model requests from apps",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Puneethnaik/predict_house_prices.git"
+  },
+  "author": "puneeth n naik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Puneethnaik/predict_house_prices/issues"
+  },
+  "homepage": "https://github.com/Puneethnaik/predict_house_prices#readme"
+}
